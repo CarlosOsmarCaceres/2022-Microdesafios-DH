@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Proyecto Integrador",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Capacitacion para realizar el proyecto",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Clases en Playground",
+        "estado": "Terminado"
+    },
+    {
+        "titulo": "prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Nueva Prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "nueva",
+        "estado": "tarea"
+    },
+    {
+        "titulo": "Una nueva tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Prueba archivo",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Vamos aprendiendo",
+        "estado": "en proceso"
+    }
+]
